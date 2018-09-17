@@ -174,6 +174,7 @@ public class tuProx extends Thread {
 	}
     }
 
+    private void cleanup() {
 	    
 	    
 	    
